@@ -1,0 +1,38 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+.legend {
+  padding: 10px;
+  font-family: Arial, serif;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 18px;
+  color: #555;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+.green {
+  background-color: green
+}
+
+.yellow {
+  background-color: yellow
+}
+
+.orange {
+  background-color: orange
+}
+
+.red {
+  background-color: red
+}
